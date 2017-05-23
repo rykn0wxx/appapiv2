@@ -1,0 +1,53 @@
+
+*,
+*:before, *::before, *::after, *:after {
+	box-sizing: border-box;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  line-height: 1.4;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+html, body {
+  min-height: 100%;
+}
+
+body, body.rykn0wxx {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  text-shadow: none !important;
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: auto;
+	font-size: 1.4rem;
+  line-height: 1.4;
+  background-color: #ecf0f1;
+  color: rgb(5,7,9);
+  @include linear-gradient(#ecf0f1, tint(#ecf0f1, 20%));
+  h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
+		font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+		margin: 0;
+		text-shadow: none;
+	}
+  p {
+		margin: 0 0 10px;
+	}
+  #wrapper,
+  .wrapper {
+  	overflow: hidden;
+    min-height: 100%;
+    position: relative;
+  	@include clearfix;
+  }
+}
