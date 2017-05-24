@@ -1,4 +1,7 @@
 ActiveAdmin.register Client do
+  belongs_to :region
+  navigation_menu :region
+
   config.sort_order = 'updated_at_desc'
   permit_params :region_id, :name, :is_active
 
@@ -16,7 +19,7 @@ ActiveAdmin.register Client do
       selectable_column
       # id_column
       column 'Name', :name, sortable: :name do |dModel|
-        link_to dModel.name, [:admin, dModel]
+        link_to dModel.name, [:admin, dModel.region, dModel]
       end
       column 'Region', :region, sortable: :region
       column 'Active', :is_active

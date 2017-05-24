@@ -19,4 +19,10 @@ ActiveAdmin.register Region do
     actions
   end
 
+  sidebar 'Region Clients', only: [:show, :edit] do
+    ul do
+      li link_to 'Clients', admin_region_clients_path(resource)
+    end
+  end
+
 end

@@ -16,4 +16,5 @@
 
 class Client < ApplicationRecord
   belongs_to :region
+  has_many :raw_executives
 end
