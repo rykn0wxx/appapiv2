@@ -21,4 +21,5 @@
 
 class RawExecutive < ApplicationRecord
   belongs_to :client
+
 end

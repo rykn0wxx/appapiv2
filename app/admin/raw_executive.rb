@@ -6,7 +6,7 @@ ActiveAdmin.register RawExecutive do
     headers_rewrites: { :'client' => :client_id },
     before_batch_import: -> (importer) {
       client_names = importer.values_at(:client_id)
-      parents = Client.where(code: client_names).pluck(:name, :id)
+      parents = Client.where(name: client_names).pluck(:name, :id)
       options = Hash[*parents.flatten]
       importer.batch_replace(:client_id, options)
     },
