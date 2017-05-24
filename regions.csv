@@ -1,0 +1,8 @@
+name,code,label,is_active
+Anonymous,AA,ANON,TRUE
+Africa,AF,AFRICA,TRUE
+Asia,AS,APAC,TRUE
+Europe,EU,EMEA,TRUE
+North America,NA,NAM,TRUE
+Oceania,OC,OCEANIA,TRUE
+South America,SA,LATAM,TRUE

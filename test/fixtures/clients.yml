@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  region: one
+  name: MyString
+  is_active: false
+
+two:
+  region: two
+  name: MyString
+  is_active: false

@@ -1,0 +1,139 @@
+region,name,is_active
+SA,3M,TRUE
+SA,ABDI,TRUE
+NA,Acosta,TRUE
+SA,Adasa,TRUE
+SA,Aernnova,TRUE
+SA,AGCO,TRUE
+EU,Alcoa - EMEA,TRUE
+SA,Alcoa - LATAM,TRUE
+NA,Alcoa - NA,TRUE
+NA,Alvarez and Marsal,TRUE
+SA,AMBEV,TRUE
+NA,Amcor,TRUE
+SA,Astrazeneca,TRUE
+SA,Banco Fibra,TRUE
+SA,Banco Pan,TRUE
+EU,BCG - EMEA,TRUE
+NA,BCG - NA,TRUE
+SA,BG Group,TRUE
+SA,BH AIRPORT,TRUE
+EU,Bio-Rad - EMEA,TRUE
+SA,BNB,TRUE
+NA,Brown-Forman,TRUE
+SA,BTG Pactual,TRUE
+SA,Burger King,TRUE
+SA,Caixa,TRUE
+NA,CEC,TRUE
+EU,Clariant - EMEA,TRUE
+EU,CLS,TRUE
+NA,CNH,TRUE
+SA,CNH - LATAM,TRUE
+SA,CNI,TRUE
+EU,Coca Cola,TRUE
+EU,Covance - EMEA,TRUE
+NA,Covance - NA,TRUE
+SA,CPFL,TRUE
+SA,DETRAN-CE,TRUE
+SA,DIRECIONAL,TRUE
+NA,Duke,TRUE
+NA,E&Y - NA,TRUE
+SA,Elebat,TRUE
+NA,Embraer,TRUE
+SA,Embraer (CA-Support) - LATAM,TRUE
+SA,Embraer (Datacenter) - LATAM,TRUE
+SA,Embraer (Gest?o de Ativos) - LATAM,TRUE
+SA,Embraer (PC as a Service) - LATAM,TRUE
+SA,Embraer (Portais) - LATAM,TRUE
+SA,Embraer (Projetotres) - LATAM,TRUE
+SA,Emprel,TRUE
+NA,Epsilon,TRUE
+NA,Essilor - NA,TRUE
+NA,Evoqua,TRUE
+NA,Ferro,TRUE
+SA,FGV,TRUE
+SA,Fiat,TRUE
+SA,FIES,TRUE
+EU,Firmenich,TRUE
+SA,FORD,TRUE
+SA,FUNASA,TRUE
+SA,Gerdau,TRUE
+SA,GoodYear,TRUE
+NA,Hanon,TRUE
+SA,HCL Brasil,TRUE
+NA,Honda,TRUE
+NA,Huron,TRUE
+SA,IBM SP - Fleury,TRUE
+SA,IBRAM,TRUE
+SA,Incra,TRUE
+NA,Infineum,TRUE
+SA,Intercement,TRUE
+SA,Intermedica,TRUE
+EU,John Deere - EMEA,TRUE
+NA,John Deere - NA,TRUE
+NA,Joy,TRUE
+EU,Kraft/Heinz - EMEA,TRUE
+NA,Kraft/Heinz - NA,TRUE
+SA,Kuehne Nagel,TRUE
+EU,Ledvance,TRUE
+EU,Linde - EMEA,TRUE
+SA,Linde - LATAM,TRUE
+NA,Louis Vuitton,TRUE
+SA,M.T.E,TRUE
+SA,Magneti Marelli,TRUE
+SA,MAPA,TRUE
+NA,MasterCard,TRUE
+EU,Merck-Serono,TRUE
+SA,MMA,TRUE
+SA,Mongeral,TRUE
+SA,MRS,TRUE
+SA,Multiplus,TRUE
+NA,NBA,TRUE
+SA,Neoenergia,TRUE
+SA,Nestle,TRUE
+SA,Nidera,TRUE
+EU,Novelis - EMEA,TRUE
+SA,Novelis - LATAM,TRUE
+NA,Novelis - NA,TRUE
+SA,NOVO NORDISK,TRUE
+SA,Odontoprev,TRUE
+EU,Orbitz,TRUE
+EU,OSRAM,TRUE
+SA,Par Corretora,TRUE
+SA,Paranapanema,TRUE
+EU,PMI - EMEA,TRUE
+SA,Porto Seguro,TRUE
+SA,PPG,TRUE
+SA,RA IMC,TRUE
+NA,Route One,TRUE
+SA,Samarco,TRUE
+EU,SAPA - EMEA,TRUE
+SA,Sebrae,TRUE
+SA,SEBRAE MG,TRUE
+SA,SEE-SD ATENDIMENTO,TRUE
+SA,SERPRODF,TRUE
+SA,SFB,TRUE
+SA,Sicredi,TRUE
+SA,Software One,TRUE
+SA,Souza Cruz,TRUE
+EU,Sulzer,TRUE
+NA,Swagelok,TRUE
+SA,TE/Tyco,TRUE
+SA,Terra Networks,TRUE
+SA,ThyssenKrupp,TRUE
+SA,TIM HDC&CCA,TRUE
+SA,TIM Opera??o,TRUE
+SA,TJMG,TRUE
+SA,TJ-RJ,TRUE
+SA,TJRN,TRUE
+SA,TRF - Se??es - Consolidado,TRUE
+SA,TRT SUSTENTA??O,TRUE
+EU,TRW - EMEA,TRUE
+NA,TSI,TRUE
+SA,TST,TRUE
+SA,Unimed/RJ,TRUE
+SA,UNITEC,TRUE
+SA,Valeo,TRUE
+NA,Vallourec,TRUE
+NA,Visteon,TRUE
+SA,WestRock Rigesa,TRUE
