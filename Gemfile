@@ -10,6 +10,7 @@ gem 'rails', '= 5.0.2'
 gem 'sqlite3'
 gem 'puma', '~> 3.8', '>= 3.8.2'
 gem 'rack-cors'
+gem 'bcrypt', github: 'codahale/bcrypt-ruby', :require => 'bcrypt'
 
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
@@ -40,7 +41,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jsonapi-resources'
 gem 'devise', '~> 4.2', '>= 4.2.1'
-gem 'activeadmin', github: 'activeadmin'
+gem 'activeadmin', github: 'activeadmin/activeadmin'
 gem 'wdm', '~> 0.1.1'
 gem 'active_admin_flat_skin', '~> 0.1.2'
 gem 'active_admin_import', '~> 3.0'
